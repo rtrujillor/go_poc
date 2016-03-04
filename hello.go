@@ -1,4 +1,5 @@
-// Every Go source file starts with a package clause, like this:
+// Every Go source file starts with a package clause
+// Executable commands must always use package main.
 package main
 // To use a package, the importing source file identifies it by its package path in the import clause
 import (
