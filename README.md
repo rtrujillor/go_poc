@@ -1,2 +1,2 @@
 # go_poc
-Go repository for some proofs of concept
+Go Programming Language repository where I do practice with the language
