@@ -1,5 +1,5 @@
 # go_poc
-Go Programming Language repository where I do practice with the language
+Go Programming Language repository where Ipractice with the language
 
 Command hello covers:
 
